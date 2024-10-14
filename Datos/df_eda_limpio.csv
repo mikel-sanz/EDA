@@ -1,0 +1,59 @@
+id cliente,nombre,apellido1,apellido2,telefono,edad,sexo,estado salud,ingresos,deporte,educacion
+1,Alejandro,García,Navarro,631 456 789,9,hombre,Malo,Bajo,Sí,Secundaria
+2,Mariana,Rodríguez,Reyes,55 1234 5678,22,mujer,Normal,Medio,No,Primaria
+3,Carlos,Martínez,Romero,213 987 6543,25,hombre,Excelente,Alto,Sí,Universitaria
+4,Sofía,López,Vargas,7911 123456,27,mujer,Normal,Bajo,No,Postgrado
+5,David,Hernández,Domínguez,176 5432 1098,30,mujer,Malo,Medio,Sí,Secundaria
+6,Valeria,Pérez,Silva,6 12 34 56 78,32,mujer,Malo,Bajo,No,Primaria
+7,Juan,González,Serrano,412 345 678,35,hombre,Normal,Alto,Sí,Universitaria
+8,Gabriela,Sánchez,Paredes,678 901 234,37,mujer,Excelente,Medio,No,Secundaria
+9,Fernando,Ramírez,Méndez,81 2345 6789,40,hombre,Normal,Bajo,Sí,Postgrado
+10,Isabel,Torres,Castro,917 765 4321,43,mujer,Malo,Medio,No,Primaria
+11,Luis,Flores,Rojas,7812 987654,46,hombre,Malo,Alto,Sí,Universitaria
+12,Camila,Cruz,Peña,622 111 222,48,mujer,Malo,Bajo,No,Secundaria
+13,Ricardo,Rivera,Acosta,151 234 56789,51,hombre,Excelente,Bajo,Sí,Primaria
+14,Daniela,Morales,Montes,7 89 01 23 45,54,mujer,Malo,Bajo,No,Postgrado
+15,Pablo,Ortiz,Figueroa,33 3456 7890,56,hombre,Normal,Alto,Sí,Universitaria
+16,Lucía,Castillo,Vega,612 345 678,58,mujer,Malo,Medio,No,Secundaria
+17,Miguel,Ramos,Salinas,415 987 1234,61,hombre,Malo,Bajo,Sí,Primaria
+18,Andrea,Gutiérrez,Esquivel,7423 876543,63,mujer,Malo,Alto,No,Postgrado
+19,José,Jiménez,Lara,490 765 432,64,mujer,Excelente,Medio,Sí,Universitaria
+20,Patricia,Mendoza,Ponce,55 5678 1234,65,mujer,Malo,Bajo,No,Secundaria
+21,Roberto,de todos los santos,gutierrez,620 888 888,40,hombre,Malo,Alto,Sí,Primaria
+22,Ricardo,Rivera,Acosta,151 234 56789,51,hombre,Normal,Medio,No,Postgrado
+23,Alejandro,García,Navarro,631 456 789,9,hombre,Malo,Bajo,Sí,Universitaria
+24,Mariana,Rodríguez,Reyes,55 1234 5678,22,mujer,Excelente,Medio,No,Secundaria
+25,Carlos,Martínez,Romero,213 987 6543,25,hombre,Malo,Bajo,Sí,Primaria
+26,Rodrigo,García,Mendizábal,672 345 789,27,hombre,Excelente,Bajo,No,Universitaria
+51,Ricardo,Rivera,Acosta,151 234 56789,51,hombre,Excelente,Medio,Sí,Primaria
+27,Natalia,Fernández,Uribe,601 234 567,64,mujer,Malo,Medio,Sí,Secundaria
+28,Esteban,González,Sanz,689 987 654,35,hombre,Malo,Alto,No,Postgrado
+29,Isabel,Martínez,Salazar,612 345 678,18,mujer,Malo,Bajo,Sí,Primaria
+30,Hugo,López,Aguirre,673 890 123,52,hombre,Malo,Medio,No,Universitaria
+31,Fernanda,Pérez,Etxebarria,645 321 098,71,mujer,Otro,Alto,Sí,Secundaria
+32,Enrique,Sánchez,Aramburu,687 654 321,29,hombre,Malo,Bajo,No,Primaria
+33,Elena,Álvarez,Sarasola,609 876 543,47,mujer,Otro,Medio,Sí,Postgrado
+34,Manuel,Gutiérrez,Zabaleta,611 123 456,15,hombre,Malo,Alto,No,Universitaria
+35,Julia,Rodríguez,Ochoa,658 765 432,38,mujer,Excelente,Bajo,Sí,Secundaria
+36,Sebastián,Muñoz,Garmendia,621 456 789,23,hombre,Malo,Medio,No,Primaria
+37,Claudia,Díez,Urrutia,654 987 321,60,mujer,Malo,Alto,Sí,Postgrado
+38,Francisco,Alonso,Aznar,677 890 654,76,hombre,Malo,Bajo,No,Universitaria
+39,Beatriz,Gómez,Goikoetxea,645 098 765,55,mujer,Normal,Medio,Sí,Secundaria
+52,Patricia,Mendoza,Ponce,55 5678 1234,65,mujer,Malo,Bajo,Sí,Secundaria
+40,Rubén,Ortega,Olazábal,683 567 123,19,hombre,Excelente,Alto,Sí,Universitaria
+41,Alicia,Ruiz,Unzueta,699 234 890,41,mujer,Malo,Bajo,Sí,Universitaria
+42,Óscar,Villar,Eguía,615 876 543,30,hombre,Malo,Medio,No,Secundaria
+43,Irene,Llorente,Bedia,647 890 321,66,mujer,Normal,Alto,Sí,Postgrado
+44,Pedro,Echeverría,Iturralde,633 098 765,25,hombre,Excelente,Bajo,No,Primaria
+45,Marta,Zubizarreta,Bermejo,622 123 789,49,mujer,Malo,Medio,Sí,Universitaria
+46,Álvaro,Ibarra,Iribarren,609 456 123,80,hombre,Malo,Alto,No,Secundaria
+47,Mónica,Otegui,Lizarazu,675 321 987,33,mujer,Malo,Bajo,Sí,Primaria
+48,Rafael,Goñi,Olano,692 654 321,44,hombre,Normal,Medio,No,Postgrado
+49,Susana,Arrieta,Aizpurua,687 234 567,58,mujer,Otro,Alto,Sí,Universitaria
+50,Cristian,Arozena,Iriarte,611 987 654,16,hombre,Malo,Bajo,No,Secundaria
+53,Claudia,Díez,Urrutia,654 987 321,60,mujer,Malo,Alto,Sí,Postgrado
+54,Lucía,Castillo,Vega,612 345 678,58,mujer,Malo,Medio,No,Secundaria
+55,Julia,Rodríguez,Ochoa,658 765 432,38,mujer,Excelente,Bajo,Sí,Secundaria
+56,Mónica,Otegui,Lizarazu,675 321 987,33,mujer,Malo,Bajo,Sí,Primaria
+57,Mónica,Otegui,Lizarazu,675 321 987,33,mujer,Malo,Bajo,Sí,Primaria
+58,Mónica,Otegui,Lizarazu,675 321 987,33,mujer,Malo,Bajo,Sí,Primaria
